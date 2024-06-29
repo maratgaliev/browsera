@@ -47,10 +47,6 @@ Note: Ensure that your app's target settings include the "Application is agent (
 - macOS 11.0 or later
 - Xcode 12.0 or later
 
-## License
-
-[Specify your license here]
-
 ## Author
 
 Marat Galiev
